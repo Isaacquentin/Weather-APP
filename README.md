@@ -168,7 +168,7 @@ class MainActivity4 : AppCompatActivity() {
     }
 
 Link GitHub repository
-https://github.com/Isaacquentin/Weather-APP/edit/main/README.md
+https://github.com/Isaacquentin/Weather-APP/blob/main/README.md
 
 Splash Screen (First Screen)
 The splash Screen we have designed is truly tailored to provide a universal and engaging welcome experience. The colors have been meticulously chosen for their visual appeal while ensuring optimal readability across all devices. Additionally, the information is strategically arranged to be easily identifiable and visible at first glance. 
